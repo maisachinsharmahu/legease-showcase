@@ -1,36 +1,42 @@
-# ⚖️ Legease - Simplifying Legal Complexity
+# ⚖️ Legease - AI Legal Document Analysis Platform
 
-Legease is a comprehensive digital solution designed to streamline legal documentation, case management, and research for professionals and individuals alike.
+Navigating legal jargon shouldn't require a law degree. **Legease** is an AI-driven ecosystem designed to demystify complex contracts and agreements. By leveraging advanced NLP, it provides clause-by-clause breakdowns, identifies potential risks, and connects users with legal professionals.
 
-![Tech Stack](https://img.shields.io/badge/tech-Next.js-black?logo=next.js)
-![Tech Stack](https://img.shields.io/badge/tech-TypeScript-blue?logo=typescript)
-![License](https://img.shields.io/badge/license-Private-red)
+![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Desktop-blue)
+![Tech](https://img.shields.io/badge/tech-Flutter-02569B?logo=flutter)
+![Downloads](https://img.shields.io/badge/downloads-10K%2B-green)
 
-## 🚀 Vision
+## ✨ Key Features
 
-The legal world is often bogged down by paperwork and archaic processes. **Legease** aims to bring modern technology to the legal sector, ensuring that justice and legal advice are more accessible, organized, and efficient.
+- **Clause-by-Clause Analysis**: Demystify complex legal jargon using advanced AI.
+- **Risk Identification**: Automatically flag potential risks in contracts before you sign.
+- **Cross-Platform Accessibility**: Seamless experience across iOS, Android, Web, and Desktop.
+- **End-to-End Encryption**: Your legal documents are yours alone, secured with industry-standard encryption.
+- **Pro Connection**: Directly connect with legal professionals for expert advice.
 
-## ✨ Core Features
+## 🛠️ Tech Stack
 
-- **Document Automation**: Intelligent templates for generating legal contracts and agreements.
-- **Case Tracking**: A centralized dashboard to manage hearings, deadlines, and client communication.
-- **Secure Vault**: End-to-end encrypted storage for sensitive legal documents.
-- **AI-Powered Search**: Quick access to relevant statutes and case laws (Experimental).
+- **Framework**: Flutter & Dart
+- **AI/ML**: Advanced NLP for document parsing and analysis
+- **Processing**: High-performance PDF processing engine
+- **UI/UX**: Material Design 3 with custom high-fidelity components
+- **Security**: End-to-End Encryption (E2EE)
 
-## 🛠️ Built With
+## 📸 App Showcase
 
-- **Framework**: Next.js 14
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **Database**: PostgreSQL / Supabase
-- **Authentication**: Clerk / NextAuth
+<p align="center">
+  <img src="screenshots/legease_thumb.png" width="800" alt="Legease Thumbnail" />
+</p>
 
-## 📸 Interface Preview
+<p align="center">
+  <img src="screenshots/legease_1.png" width="200" />
+  <img src="screenshots/legease_2.png" width="200" />
+  <img src="screenshots/legease_3.png" width="200" />
+</p>
 
-*Coming Soon...*
+## 🎥 Watch in Action
 
-## 📜 Disclaimer
-This repository is a **showcase version** intended for portfolio presentation only. The core source code is maintained in a private repository.
+[View Demo Video](https://youtube.com/shorts/rO3SDq69Fbc)
 
 ---
-Crafted with precision by [Sachin Sharma](https://github.com/maisachinsharmahu)
+Developed with precision by [Sachin Sharma](https://github.com/maisachinsharmahu)
